@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multilingual on Wrase Theme Demo</title>
+    <link>https://wraihan.github.io/wrase-demo-web/tags/multilingual/</link>
+    <description>Recent content in Multilingual on Wrase Theme Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 24 Nov 2016 02:34:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://wraihan.github.io/wrase-demo-web/tags/multilingual/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beta</title>
+      <link>https://wraihan.github.io/wrase-demo-web/post/beta/</link>
+      <pubDate>Thu, 24 Nov 2016 02:34:00 +0800</pubDate>
+      
+      <guid>https://wraihan.github.io/wrase-demo-web/post/beta/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, porro, doloribus ducimus reprehenderit nobis at voluptates ipsa dicta nostrum perferendis in vitae. Magnam, quia officia modi incidunt tenetur ratione cum.
+Magni, maxime, eum, veniam nam iusto rem error id tenetur porro sed modi reprehenderit excepturi impedit saepe vero ducimus quae consequuntur cupiditate est aperiam in cumque sapiente. Ullam, ex, dolorum.
+Pariatur, mollitia dignissimos commodi nostrum dicta accusantium nisi doloremque ratione molestias ex similique a porro quibusdam harum incidunt veniam laborum ipsum facere impedit maiores quam ad vero in obcaecati molestiae.</description>
+    </item>
+    
+    <item>
+      <title>Alpha</title>
+      <link>https://wraihan.github.io/wrase-demo-web/post/alpha/</link>
+      <pubDate>Thu, 24 Nov 2016 01:34:00 +0800</pubDate>
+      
+      <guid>https://wraihan.github.io/wrase-demo-web/post/alpha/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, porro, doloribus ducimus reprehenderit nobis at voluptates ipsa dicta nostrum perferendis in vitae. Magnam, quia officia modi incidunt tenetur ratione cum.
+Magni, maxime, eum, veniam nam iusto rem error id tenetur porro sed modi reprehenderit excepturi impedit saepe vero ducimus quae consequuntur cupiditate est aperiam in cumque sapiente. Ullam, ex, dolorum.
+Pariatur, mollitia dignissimos commodi nostrum dicta accusantium nisi doloremque ratione molestias ex similique a porro quibusdam harum incidunt veniam laborum ipsum facere impedit maiores quam ad vero in obcaecati molestiae.</description>
+    </item>
+    
+  </channel>
+</rss>

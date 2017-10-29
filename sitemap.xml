@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/about/</loc>
+    <lastmod>2017-10-02T01:28:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/21-mei-2017/</loc>
+    <lastmod>2017-05-21T23:13:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/17-mei-2017/</loc>
+    <lastmod>2017-05-17T22:04:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/13-mei-2017/</loc>
+    <lastmod>2017-05-13T13:01:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/22-apr-2017/</loc>
+    <lastmod>2017-04-22T20:56:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/21-apr-2017/</loc>
+    <lastmod>2017-04-21T18:06:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/20-apr-2017/</loc>
+    <lastmod>2017-04-20T03:40:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/17-apr-2017/</loc>
+    <lastmod>2017-04-17T11:40:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/11-apr-2017/</loc>
+    <lastmod>2017-04-11T15:09:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/05-apr-2017/</loc>
+    <lastmod>2017-04-05T08:27:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/01-apr-2017/</loc>
+    <lastmod>2017-04-01T21:36:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/24-mac-2017/</loc>
+    <lastmod>2017-03-24T01:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/23-mac-2017/</loc>
+    <lastmod>2017-03-23T23:58:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/post/beta/</loc>
+    <lastmod>2016-11-24T02:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/post/alpha/</loc>
+    <lastmod>2016-11-24T01:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/post/a-hole-in-the-fence/</loc>
+    <lastmod>2015-04-01T20:32:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/post/another-post/</loc>
+    <lastmod>2014-09-02T01:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/post/hello-hugo/</loc>
+    <lastmod>2014-09-01T01:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/post/hugo-is-for-lovers/</loc>
+    <lastmod>2014-04-02T03:52:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/blog/</loc>
+    <lastmod>2014-09-01T01:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/development/</loc>
+    <lastmod>2014-04-02T03:52:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/categories/example/</loc>
+    <lastmod>2014-09-02T01:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/example/</loc>
+    <lastmod>2014-09-02T01:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/go/</loc>
+    <lastmod>2014-04-02T03:52:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/categories/golang/</loc>
+    <lastmod>2014-04-02T03:52:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/golang/</loc>
+    <lastmod>2014-04-02T03:52:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/hugo/</loc>
+    <lastmod>2014-09-02T01:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/kidsworldfun/</loc>
+    <lastmod>2015-04-01T20:32:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/multilingual/</loc>
+    <lastmod>2016-11-24T02:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/categories/news/</loc>
+    <lastmod>2016-11-24T02:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/post/</loc>
+    <lastmod>2016-11-24T02:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/categories/short-story/</loc>
+    <lastmod>2015-04-01T20:32:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/story/</loc>
+    <lastmod>2016-11-24T02:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/</loc>
+    <lastmod>2014-09-01T01:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/timeline/</loc>
+    <lastmod>2017-05-21T23:13:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/tags/toml/</loc>
+    <lastmod>2014-09-02T01:34:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wraihan.github.io/wrase-demo-web/</loc>
+    <lastmod>2017-10-02T01:28:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
