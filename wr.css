@@ -3,7 +3,6 @@
 body.custom {
     background: #282d32;
 }
-
 .header {
     word-wrap: break-word;
     text-align: center;
@@ -33,10 +32,7 @@ body.custom {
     line-height: 1em;
 }
 .isi {
-    padding-top: .5em;
-    padding-bottom: .5em;
-    padding-left: .25em;
-    padding-right: .25em;
+    padding: .5em;
     color: #b2b2b2;
     margin-bottom: .85em;
 }
@@ -49,7 +45,6 @@ body.custom {
     margin-top: -0.5em;
     font-weight: bold;
 }
-
 .lastmod {
     color: #a6a6a6;
     font-size: 80%;
@@ -62,11 +57,9 @@ body.custom {
     margin-top: 2em;
     margin-bottom: .5em;
 }
-
 hr {
     border-top: 1px solid #eee;
 }
-
 /* MEDIA */
 .fix {
     width: 100%;
@@ -94,16 +87,20 @@ a.grey {
 a.grey:hover {
     color: #fff;
 }
-
+a.page {
+    background:#ccc;
+    border-radius:2px;
+    padding:.25em;
+    color:#555;
+}
 /* PRE & CODE */
-
 code {
   padding: 0.1rem;
   color: #bd4147;
   background-color: #efefef;
   border-radius: 0.25rem;
+  word-wrap: break-word;
 }
-
 a > code {
   padding: 0;
   color: #bd4147;
@@ -127,14 +124,12 @@ pre {
   white-space: pre;
   overflow: auto;
 }
-
 pre code {
   padding: 0.5rem;
   color: inherit;
   background-color: transparent;
   border-radius: 0;
 }
-
 /* LIST */
 ol {
     padding-left: 5px;
@@ -170,7 +165,6 @@ ul#horizontal-list {
 	display: inline-table;
     line-height: 2em;
 	}
-
 /* TIMELINE */
 .status {
     padding: .2em .5em .1em .5em;
@@ -196,7 +190,6 @@ ul#horizontal-list {
     border: 1px solid #ccc;
     border-radius: 10px;
 }
-
 /* SPACING */
 br {
     display: block; /* makes it have a width */
@@ -214,7 +207,6 @@ br {
     margin-bottom: 2em;
     padding: 0px;
 }
-
 /* TOP */
 .top {
     margin-top: 2.5em;
@@ -231,7 +223,6 @@ br {
 .top3 {
     margin-top: 3em;
 }
-
 /* BLOCKQUOTE */
 .well {
   word-break: break-word;
@@ -249,24 +240,19 @@ br {
   border-color: #ddd;
   border-color: rgba(0, 0, 0, .15);
 }
-
 /* custom semantic */
   .ui.footer.segment {
     margin: 5em 0em 0em;
     padding: 5em 0em;
   }
-
 /*******************************
             Container
 *******************************/
-
 /* All Sizes */
-
 .ui.container.change {
   display: block;
   max-width: 100% !important;
 }
-
 /* Mobile */
 @media only screen and (max-width: 767px) {
   .ui.container.change {
@@ -274,20 +260,16 @@ br {
     margin-left: 0.25em !important;
     margin-right: 0.25em !important;
   }
-
   .ui.grid.container.change {
     width: auto !important;
   }
-
   .ui.relaxed.grid.container.change {
     width: auto !important;
   }
-
   .ui.very.relaxed.grid.container.change {
     width: auto !important;
   }
 }
-
 /* Tablet */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .ui.container.change {
@@ -295,20 +277,16 @@ br {
     margin-left: auto !important;
     margin-right: auto !important;
   }
-
   .ui.grid.container.change {
     width: calc( 723px  +  2rem ) !important;
   }
-
   .ui.relaxed.grid.container.change {
     width: calc( 723px  +  3rem ) !important;
   }
-
   .ui.very.relaxed.grid.container.change {
     width: calc( 723px  +  5rem ) !important;
   }
 }
-
 /* Small Monitor */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .ui.container.change {
@@ -316,15 +294,12 @@ br {
     margin-left: auto !important;
     margin-right: auto !important;
   }
-
   .ui.grid.container.change {
     width: calc( 933px  +  2rem ) !important;
   }
-
   .ui.relaxed.grid.container.change {
     width: calc( 933px  +  3rem ) !important;
   }
-
   .ui.very.relaxed.grid.container.change {
     width: calc( 933px  +  5rem ) !important;
   }
@@ -337,20 +312,16 @@ br {
     margin-left: auto !important;
     margin-right: auto !important;
   }
-
   .ui.grid.container.change {
     width: calc( 1127px  +  2rem ) !important;
   }
-
   .ui.relaxed.grid.container.change {
     width: calc( 1127px  +  3rem ) !important;
   }
-
   .ui.very.relaxed.grid.container.change {
     width: calc( 1127px  +  5rem ) !important;
   }
 }
-
 /* http://jsfiddle.net/gilbitron/Lt2wH */
   #back-to-top {
     position: fixed;
